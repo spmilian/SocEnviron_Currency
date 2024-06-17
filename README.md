@@ -5,5 +5,5 @@ This repository contains code for the Proposal of Social Enviromental Currency
 Amaury Amaral,
 Fernando Fagundes,
 Geraldo Edmundo Silva,
-Paulo Fernando Silva Amaral
+Paulo Fernando Silva Amaral,
 Segundo Parra Milián.
